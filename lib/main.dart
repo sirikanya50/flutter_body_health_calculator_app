@@ -2,20 +2,21 @@ import 'package:flutter/material.dart';
 import 'package:flutter_body_health_calculator_app/views/splash%20screen_ui.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-void main(){
+void main() {
   runApp(
-    FlutterBodyHealthCalculatorApp()
+
+    FlutterBodyHealthCalulatorApp()
   );
 }
 
-class FlutterBodyHealthCalculatorApp extends StatefulWidget {
-  const FlutterBodyHealthCalculatorApp({super.key});
+class FlutterBodyHealthCalulatorApp extends StatefulWidget {
+  const FlutterBodyHealthCalulatorApp({super.key});
 
   @override
-  State<FlutterBodyHealthCalculatorApp> createState() => _FlutterBodyHealthCalculatorAppState();
+  State<FlutterBodyHealthCalulatorApp> createState() => _FlutterBodyHealthCalulatorAppState();
 }
 
-class _FlutterBodyHealthCalculatorAppState extends State<FlutterBodyHealthCalculatorApp> {
+class _FlutterBodyHealthCalulatorAppState extends State<FlutterBodyHealthCalulatorApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(

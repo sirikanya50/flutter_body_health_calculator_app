@@ -1,3 +1,4 @@
+import 'package:flutter/widgets.dart';
 import 'package:flutter/material.dart';
 
 class BmiUi extends StatefulWidget {
@@ -10,6 +11,7 @@ class BmiUi extends StatefulWidget {
 class _BmiUiState extends State<BmiUi> {
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return Scaffold(
+    );
   }
 }
