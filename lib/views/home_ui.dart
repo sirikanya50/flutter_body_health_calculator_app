@@ -23,7 +23,7 @@ class _HomeUiState extends State<HomeUi> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.blue,
+        backgroundColor: Colors.pink[100],
         title: (Text(
           'Body Health Calculator',
           style: TextStyle(
@@ -39,11 +39,11 @@ class _HomeUiState extends State<HomeUi> {
           });
         },
         currentIndex: currentIndexStatus,
-        selectedItemColor: Colors.blue,
+        selectedItemColor: const Color.fromARGB(255, 228, 112, 152),
         items: [
           BottomNavigationBarItem(
             icon: Icon(Icons.person_2_outlined),
-            label: 'Personal',
+            label: 'BMI',
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.home_outlined),
@@ -51,7 +51,7 @@ class _HomeUiState extends State<HomeUi> {
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.fitness_center_outlined),
-            label: 'BMI',
+            label: 'BMR',
           ),
 
         ],
