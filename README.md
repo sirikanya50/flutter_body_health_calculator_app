@@ -3,14 +3,10 @@
 A new Flutter project.
 
 ## Getting Started
+<img width="300"  alt="localhost_60700_(iPhone 12 Pro) (4)" src="https://github.com/user-attachments/assets/e97562c1-7a14-4a49-912b-7eb0b04429d8" />
 
-This project is a starting point for a Flutter application.
+<img width="300"  alt="localhost_60700_(iPhone 12 Pro) (1)" src="https://github.com/user-attachments/assets/4f0aad7e-94c2-485c-b1b1-397b427ebd12" />
+<br/><br/><br/>
+<img width="300"  alt="localhost_60700_(iPhone 12 Pro) (2)" src="https://github.com/user-attachments/assets/8d2fda46-879e-406a-b238-9e407d99a29a" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="300"  alt="localhost_60700_(iPhone 12 Pro) (3)" src="https://github.com/user-attachments/assets/cd5bd3fe-1e09-418b-9037-3f366e994758" />
